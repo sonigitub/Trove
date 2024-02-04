@@ -1,7 +1,7 @@
 # Integrating Wordpress-woocommerce site with google Firebase
 
-1.Created a subdomain for this purpose 'https://trovetest.soft3godlyceations.co.in/'
-2.Installed wordpress 6.4.3 
+##Created a subdomain for this purpose 'https://trovetest.soft3godlyceations.co.in/'
+##Installed wordpress 6.4.3 
 3.Installed Kenta digital theme with necessary plugins as woocommerce etc. and demo data
 4.Integrated only 'cash on delivery' payment system because there is need for other this time
 5.Accessed account on google Firebase
